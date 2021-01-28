@@ -1,6 +1,6 @@
 # CROSS PLATFORM 16 GRID VIDEO PLAYER WITH ELECTRON JS AND REACT JS.
 
-![alt text](https://raw.githubusercontent.com/nikhiltatpati/electron-video-player/blob/main/assets/vp.jpg)
+![alt text](https://raw.githubusercontent.com/nikhiltatpati/electron-video-player/main/assets/vp.jpg)
 
 # How to run the app
 
